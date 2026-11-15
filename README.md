@@ -13,3 +13,6 @@
 
 - [ ] https://tailwindcss.com/
 
+# Misc
+
+https://developer.chrome.com/blog/modern-web-guidance-v1
