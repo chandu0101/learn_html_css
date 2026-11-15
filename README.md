@@ -14,6 +14,9 @@
 - [ ] https://tailwindcss.com/
 
 # Misc
+
 [How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners
 ](https://www.youtube.com/watch?v=wY5pQOTsGaA)
+
+
 https://developer.chrome.com/blog/modern-web-guidance-v1
